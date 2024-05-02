@@ -4,7 +4,7 @@ Este es un proyecto que proporciona una aplicación para el reconocimiento de en
 
 ## Descripción
 
-La NER Application es una aplicación basada en Java que utiliza la biblioteca Stanford CoreNLP para identificar y extraer entidades nombradas de texto. Las entidades nombradas pueden incluir nombres de personas, organizaciones, ubicaciones, fechas, cantidades, etc. Esta aplicación ofrece un servicio RESTful que acepta texto de entrada y devuelve las entidades nombradas encontradas en el texto.
+La NER Application es una aplicación basada en Java que utiliza la biblioteca Stanford CoreNLP para identificar y extraer entidades nombradas de texto. Las entidades nombradas pueden incluir nombres de personas, ubicacion, email, etc. Esta aplicación ofrece un servicio RESTful que acepta texto de entrada y devuelve las entidades nombradas encontradas en el texto.
 
 ## Funcionalidades
 
