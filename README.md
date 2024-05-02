@@ -1,3 +1,10 @@
+
+
+
+https://github.com/An7h0ny1/ner-application/assets/91570972/ded6024b-a3c9-4f63-a101-cc3b49461e11
+
+
+
 # NER Application
 
 Este es un proyecto que proporciona una aplicación para el reconocimiento de entidades nombradas (NER) utilizando Stanford CoreNLP.
