@@ -25,7 +25,7 @@ La NER Application es una aplicación basada en Java que utiliza la biblioteca S
 5. Envía solicitudes REST para realizar el reconocimiento de entidades nombradas.
 
 ## Ejemplo de solicitud REST
-
+```
 http
 POST /api/v1/ner?type=PERSON HTTP/1.1
 Content-Type: application/json
@@ -33,3 +33,4 @@ Content-Type: application/json
 {
   "input": "El presidente Barack Obama vive en Washington D.C."
 }
+```
